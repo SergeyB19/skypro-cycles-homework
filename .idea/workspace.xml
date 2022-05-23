@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed3994eb-87b3-406d-8928-646695f4c7ae" name="Changes" comment="### Задание 1&#10;&#10;Выведите в одну строку через пробел числа от 1 до 10, используя цикл while.&#10;&#10;На следующей строке выведите числа в обратном порядке от 10 до 1, используя оператор for.&#10;&#10;Для обоих циклов можно использовать как одну общую переменную, так и в каждом цикле свою.&#10;&#10;Не забудьте выполнить переход на новую строку между двумя циклами.&#10;&#10;В результате программы вывод должен получиться следующий:&#10;&#10;1 2 3 4 5 6 7 8 9 10&#10;&#10;10 9 8 7 6 5 4 3 2 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed3994eb-87b3-406d-8928-646695f4c7ae" name="Changes" comment="### Задание 1&#10;&#10;Выведите в одну строку через пробел числа от 1 до 10, используя цикл while.&#10;&#10;На следующей строке выведите числа в обратном порядке от 10 до 1, используя оператор for.&#10;&#10;Для обоих циклов можно использовать как одну общую переменную, так и в каждом цикле свою.&#10;&#10;Не забудьте выполнить переход на новую строку между двумя циклами.&#10;&#10;В результате программы вывод должен получиться следующий:&#10;&#10;1 2 3 4 5 6 7 8 9 10&#10;&#10;10 9 8 7 6 5 4 3 2 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653324314762</updated>
-      <workItem from="1653324316607" duration="1239000" />
+      <workItem from="1653324316607" duration="1623000" />
     </task>
     <task id="LOCAL-00001" summary="### Задание 1&#10;&#10;Выведите в одну строку через пробел числа от 1 до 10, используя цикл while.&#10;&#10;На следующей строке выведите числа в обратном порядке от 10 до 1, используя оператор for.&#10;&#10;Для обоих циклов можно использовать как одну общую переменную, так и в каждом цикле свою.&#10;&#10;Не забудьте выполнить переход на новую строку между двумя циклами.&#10;&#10;В результате программы вывод должен получиться следующий:&#10;&#10;1 2 3 4 5 6 7 8 9 10&#10;&#10;10 9 8 7 6 5 4 3 2 1">
       <created>1653324608218</created>
@@ -65,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653324608218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="### Задание 1&#10;&#10;Выведите в одну строку через пробел числа от 1 до 10, используя цикл while.&#10;&#10;На следующей строке выведите числа в обратном порядке от 10 до 1, используя оператор for.&#10;&#10;Для обоих циклов можно использовать как одну общую переменную, так и в каждом цикле свою.&#10;&#10;Не забудьте выполнить переход на новую строку между двумя циклами.&#10;&#10;В результате программы вывод должен получиться следующий:&#10;&#10;1 2 3 4 5 6 7 8 9 10&#10;&#10;10 9 8 7 6 5 4 3 2 1">
+      <created>1653325828957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653325828957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
